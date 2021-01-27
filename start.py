@@ -1,0 +1,1 @@
+print("easily start!")
